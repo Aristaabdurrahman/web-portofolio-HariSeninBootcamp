@@ -1,0 +1,74 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#left-nav{
+    background-color:slategray;
+    width: 400px;
+    height: 757px;
+    float: left;
+    text-align: center;
+}
+
+#right-content{
+    background-color: black;
+    width: 100%;
+    height: 757px;
+}
+
+#id-profile{
+    margin-top: 60px;
+}
+
+#id-profile img{
+    border-radius: 50%;
+}
+
+#user-link{
+    padding-bottom: 10px;
+}
+
+.page-link{
+    background-color:azure;
+    height: 50px;
+    width: 300px;
+    margin: 8px auto 8px auto;
+    border-radius: 10px;
+}
+
+.page-link a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#right-content{
+    padding-top: 50px;
+}
+
+.box{
+    background-color:rgb(218, 218, 218);
+    height: 600px;
+    width: 1000px;
+    margin-left: 450px;
+    border-radius: 10px;
+}
+
+.box h2{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.content{
+    padding-left: 15px;
+    
+}
+
+.top{
+    padding-top: 5px;
+}
